@@ -1,5 +1,6 @@
 
 ##Project Architecture
+![Screen Shot 2020-03-08 at 7 28 51 PM](https://user-images.githubusercontent.com/28573348/76173827-3b2d8f00-6179-11ea-840c-13d3531f994f.png)
 
 ###Project Setup 
  
