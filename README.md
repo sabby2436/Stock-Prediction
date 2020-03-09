@@ -1,5 +1,6 @@
 
-
+##Project Architecture
+Screen Shot 2020-03-08 at 7.28.51 PM
 ###Project Setup 
  
 ####Installing Required Python Libraries 
